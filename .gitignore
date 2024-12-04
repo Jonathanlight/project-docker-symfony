@@ -30,6 +30,9 @@
 !bin/console
 !bin/symfony_requirements
 /vendor/
+/app/symfony/var/*
+/app/symfony/vendor/
+/app/symfony/composer.lock
 
 # Assets and user uploads
 /web/bundles/
